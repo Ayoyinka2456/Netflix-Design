@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    transition: all 0.5s;
+}
+#hero{
+    background-image: url('img/bg-hero.jpg');
+    background-size: cover;
+    background-repeat: none;
+    /* color:#b9020b; */
+}
+
+
+
+#section2{
+    background-image: url('img/marques-kaspbrak-5wThjqG6HBU-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+#large_devices{
+    background-image: url('img/ayo-ogunseinde-Erstoy-MuVA-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
